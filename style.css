@@ -9,7 +9,8 @@ body{
     margin: 0;
     background: #2f2f2f;
     font-family: 'Bree Serif', serif;
-    background: url('https://source.unsplash.com/1600x900/?nature') no-repeat;
+    background: url('https://source.unsplash.com/1600x900/?nature') no-repeat center;
+    background-size: cover;
 }
 
 .title{
